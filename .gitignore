@@ -1,0 +1,8 @@
+# Ignore readme.txt
+readme.txt
+
+# Ignore file copy
+*.~*
+
+# Ignore all files in build dir /build
+build/
